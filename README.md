@@ -3,7 +3,7 @@
 This extension enables you to create your own custom image classifiers 
 
 <p align="center">
-  <img src="wvr.png"/ width=300px>
+  <img src="wvr3.png"/ width=300px>
 </p>
 
 service demo:

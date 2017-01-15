@@ -1,12 +1,12 @@
 # Create your custom image classifier for Watson Visual Recognition service
 
-This set of extensions enables you to create your own custom image classifiers 
+This extension enables you to create your own custom image classifiers 
 
 <p align="center">
   <img src="wvr.png"/ width=300px>
 </p>
 
-serice demo:
+service demo:
 https://visual-recognition-demo.mybluemix.net/train
 
 # Before you start
